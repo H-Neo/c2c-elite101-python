@@ -1,4 +1,3 @@
-
 """
     Welcome to Elite 101 this program is a starter for your chatbot project.
     The starter prompts the user to enter their name and then greets them with a personalized message.
@@ -10,7 +9,6 @@
 
     Execution:
         When the script is run directly (not imported as a module), it will execute the main() function.
-"""
 
 
 def get_user_name():
@@ -25,3 +23,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
+
+print("Hello World!")
